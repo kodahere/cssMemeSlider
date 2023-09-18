@@ -57,6 +57,7 @@
       color: rgb(246, 247, 248);
       font-family: Arial;
   }
+  
   @media screen and (max-width: 900px) {
     .slider {
         gap: 55px;
