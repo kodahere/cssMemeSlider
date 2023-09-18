@@ -57,3 +57,20 @@
       color: rgb(246, 247, 248);
       font-family: Arial;
   }
+  @media screen and (max-width: 900px) {
+    .slider {
+        gap: 55px;
+    }
+    .slider-wrapper {
+        width: 450px;
+        height: 300px;
+    }
+    .slider img {
+        width: 450px;
+        height: 220px;
+    }
+    .slider-nav {
+        padding-left: 12rem;
+        padding-top: 15.6rem;
+    }
+}
